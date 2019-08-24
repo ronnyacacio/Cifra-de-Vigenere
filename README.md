@@ -1,4 +1,4 @@
-# Cifra-de-Vigenere
+# Cifra de Vigenere
 A cifra de Vigenère é um método de criptografia que usa uma série de diferentes cifras
 de César baseadas em letras de uma senha. Esta cifra é muito conhecida porque é fácil pôr
 em prática e aparentar ser inquebrável, para quem tem pouca prática em criptoanalise. Du-
